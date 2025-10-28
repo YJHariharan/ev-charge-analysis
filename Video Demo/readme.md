@@ -47,9 +47,9 @@ This demo video provides a complete walkthrough of the **interactive Tableau das
 
 ## 👨‍💻 Created By
 
-**V Pramod Reddy**  
-Email: vpramodreddy59@gmail.com  
-LinkedIn: (https://www.linkedin.com/in/v-pramod-reddy)
+** Y.J.Hariharan **  
+Email: hariharanhjrh@gmail.com 
+LinkedIn: (https://www.linkedin.com/in/hari-haran-9470892bb/)
 
 ---
 
