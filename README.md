@@ -20,12 +20,4 @@ A React + TypeScript based dashboard visualizing Electric Vehicle (EV) analytics
 ## 🔗 Live Link
 🛠 Coming soon via Vercel
 
----
 
-### 📁 Setup
-
-```bash
-git clone https://github.com/V-PRAMOD-REDDY/EV-Charge-Analysis.git
-cd EV-Charge-Analysis
-npm install
-npm run dev
