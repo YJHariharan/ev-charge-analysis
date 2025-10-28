@@ -21,3 +21,9 @@ A React + TypeScript based dashboard visualizing Electric Vehicle (EV) analytics
 🛠 Coming soon via Vercel
 
 
+## ⚙️ Setup Instructions
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/YJHariharan/EV-Data-Visualization-Tool.git
+   cd EV-Data-Visualization-Tool
